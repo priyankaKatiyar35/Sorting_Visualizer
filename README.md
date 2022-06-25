@@ -26,7 +26,7 @@ Implemented algorithms:
 - Generation of new data (Randomly generate new data).
 - Time and Space complexity of algorithm being visualized.
 
-# Build with
+# Built with
 - html
 - css
 - JavaScript
