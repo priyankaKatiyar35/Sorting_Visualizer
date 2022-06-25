@@ -9,7 +9,7 @@
 
 nav {
   background-color: black;
-  color: white;
+  color: grey;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 30% 60%;
@@ -41,7 +41,7 @@ nav .array-inputs #a_generate {
   border-radius: 6px;
   color:black;
   font-size: 20px;
-  background-color: rgb(221, 213, 213);
+  background-color: gray;
   margin-top: 12px;
   font-weight: bolder;
   }
@@ -75,7 +75,7 @@ nav .header_right .algos button {
   color: black;
   outline: none;
   font-size: 25px;
-  background-color: rgb(221, 213, 213);
+  background-color: gray;
 } 
 
 nav .header_right .algos button:hover {
@@ -151,7 +151,8 @@ section #array_container {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  height: 75vh;
+  height: 70vh;
+  background-color: black;
 }
 
 section #Info_Cont2 {
