@@ -5,12 +5,28 @@ A web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
 
-1.Bubble sort
-2.Selection sort
-3.Insertion sort
-4.Merge sort
-5.Quick sort
-6.Heap sort
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Heap sort
 
-Features:
+# Features
 
+- Colored representation of step being executed.
+- Blue:default.
+- Yellow: Being compared.
+- Red: Identified as in incorrect position and to be moved. 
+- Green: In correct position.
+- Controls for visualizations. 
+- Speed of visualization.
+- speed levels.
+- Data size.
+- Generation of new data (Randomly generate new data).
+- Time and Space complexity of algorithm being visualized.
+
+# Build with
+- html
+- css
+- JavaScript
