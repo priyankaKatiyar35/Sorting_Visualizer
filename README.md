@@ -1,7 +1,8 @@
 # Sorting_Visualizer
 Sorting Algorithm Visualizer (JavaScript).
 
-A web application showcasing the inner workings of sorting algorithms Implemented algorithms:
+A web application showcasing the inner workings of sorting algorithms. 
+Implemented algorithms:
 
 - Bubble sort
 - Selection sort
