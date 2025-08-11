@@ -29,7 +29,3 @@ Implemented algorithms:
 - html
 - css
 - JavaScript
-
-
-start today - 8/11/2025
-jak wq'qwjeh qwuelqwqw ru jerhe u
